@@ -1,4 +1,0 @@
-RewriteEngine On
-
-# Если пользователь заходит на /youtube — перенаправляем на YouTube-канал
-RewriteRule ^youtube/?$ https://youtube.com/@dominikphotofficial [R=302,L]
